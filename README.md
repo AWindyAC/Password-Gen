@@ -88,8 +88,7 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains quality readme file with description, screenshot, and link to deployed application.
 
-![image](https://user-images.githubusercontent.com/123840237/231036517-6d3c340b-95cf-4a10-971f-73cdea8bd244.png)
-
+![Password gen](https://user-images.githubusercontent.com/123840237/231036816-eb7aa7cd-2a56-43af-bbd6-79b475407f3a.JPG)
 
 ## Review
 
